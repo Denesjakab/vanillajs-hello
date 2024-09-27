@@ -1,1 +1,35 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url(https://img.cronista.com/files/image/305/305928/5ffe2d7179723_950_534!.jpg?s=a26f0fbcffbeaeecc6eb455e9c00e506&d=1725829961);
+  background-size: 225vh 110vh;
+}
+.contenedor1 {
+  text-align: center;
+  background: transparent;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 700px;
+  margin-right: 700px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.Generador {
+  white-space: nowrap;
+}
+#excusa {
+  font-size: 25px;
+  white-space: nowrap;
+  font-weight: bold;
+  color: black;
+}
+#Generarexcusa:hover {
+  background-color: aqua;
+  color: aquamarine;
+  cursor: pointer;
+}
+#resultado {
+  font-size: 20px;
+  white-space: nowrap;
+  font-weight: bold;
+  color: black;
+}
