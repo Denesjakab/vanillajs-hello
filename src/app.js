@@ -1,6 +1,6 @@
 /* eslint-disable */
 import "./style.css";
-
+import "bootstrap";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 

@@ -1,3 +1,5 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
 body {
   background-image: url(https://img.cronista.com/files/image/305/305928/5ffe2d7179723_950_534!.jpg?s=a26f0fbcffbeaeecc6eb455e9c00e506&d=1725829961);
   background-size: 225vh 110vh;
@@ -23,7 +25,6 @@ body {
   color: black;
 }
 #Generarexcusa:hover {
-  background-color: aqua;
   color: aquamarine;
   cursor: pointer;
 }
